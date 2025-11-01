@@ -13,7 +13,7 @@
 <a href="https://github.com/SouravChowdhuryRimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SouravChowdhuryRimel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sourav-chowdhury-8b9a3b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-chowdhury-8b9a3b227/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MdSouravChowdhuryRimel?rdid=c4pEv4jIM2ihxISv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16xjz8o2C4%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16xjz8o2c4/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sourav_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sourav_chowdhury" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sourav_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sourav_chowdhury" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/github/followers/SouravChowdhuryRimel?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SouravChowdhuryRimel&theme=onedark&column=7&no-frame=true" alt="SouravChowdhuryRimel" />
-  </a>
-</p>
 
 ## 📫 Connect with me:
 
@@ -25,7 +20,7 @@
   <a href="https://www.facebook.com/MdSouravChowdhuryRimel" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://codeforces.com/profile/sourav_c" target="_blank">
+  <a href="https://codeforces.com/profile/sourav_chowdhury" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://leetcode.com/u/sourav_c/" target="_blank">
@@ -138,15 +133,6 @@
 
 ---
 
-## 🎯 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/SouravChowdhuryRimel">
-    <img src="https://github-profile-trophy.vercel.app/?username=SouravChowdhuryRimel&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SouravChowdhuryRimel/SouravChowdhuryRimel/output/github-contribution-grid-snake.svg" alt="Snake animation" />

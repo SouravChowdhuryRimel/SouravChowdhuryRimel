@@ -42,7 +42,7 @@
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/sourav_chowdhury" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourav_c&theme=github_dark" alt="Codeforces Stats" />
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourav_chowdhury&theme=github_dark" alt="Codeforces Stats" />
       </a>
     </td>
     <td align="center">

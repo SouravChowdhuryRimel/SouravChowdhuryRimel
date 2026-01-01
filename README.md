@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/SouravChowdhuryRimel?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-
 ## 📫 Connect with me:
 
 <p align="left">
@@ -121,10 +120,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=SouravChowdhuryRimel&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true" alt="Top Contributions" />
 </p>
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
@@ -133,9 +128,10 @@
 
 ---
 
+## 🐍 Snake Game Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SouravChowdhuryRimel/SouravChowdhuryRimel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">

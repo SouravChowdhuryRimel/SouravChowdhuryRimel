@@ -1,38 +1,161 @@
 # Hi 👋, I'm Sourav Chowdhury
 
-### A passionate backend developer
+### A passionate backend developer from Bangladesh
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SouravChowdhuryRimel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SouravChowdhuryRimel?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SouravChowdhuryRimel" alt="SouravChowdhuryRimel" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SouravChowdhuryRimel&theme=onedark&column=7&no-frame=true" alt="SouravChowdhuryRimel" />
+  </a>
+</p>
 
+## 📫 Connect with me:
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/SouravChowdhuryRimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SouravChowdhuryRimel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sourav-chowdhury-8b9a3b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-chowdhury-8b9a3b227/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/MdSouravChowdhuryRimel?rdid=c4pEv4jIM2ihxISv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16xjz8o2C4%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16xjz8o2c4/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sourav_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sourav_chowdhury" height="30" width="40" /></a>
+  <a href="https://github.com/SouravChowdhuryRimel" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sourav-chowdhury-8b9a3b227/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/MdSouravChowdhuryRimel" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://codeforces.com/profile/sourav_c" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/sourav_c/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:souravchowdhury6519@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-- 📫 How to reach me **souravchowdhury6519@gmail.com**
+## 🏆 Competitive Programming Profiles
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank"rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/sourav_chowdhury" target="_blank">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourav_c&theme=github_dark" alt="Codeforces Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/sourav_c/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/sourav_c?theme=dark&font=Abel&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SouravChowdhuryRimel&show_icons=true&locale=en&layout=compact" alt="SouravChowdhuryRimel" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SouravChowdhuryRimel&show_icons=true&locale=en" alt="SouravChowdhuryRimel" /></p>
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java" alt="Programming Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravChowdhuryRimel&" alt="SouravChowdhuryRimel" /></p>
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nestjs,tailwind,bootstrap" alt="Web Development" />
+</p>
 
-## 📈 Activity Graph
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,firebase" alt="Databases & Cloud" />
+</p>
 
-[![Sourav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SouravChowdhuryRimel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,postman,figma" alt="DevOps & Tools" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SouravChowdhuryRimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,jest" alt="Testing" />
+</p>
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouravChowdhuryRimel&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sourav's GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SouravChowdhuryRimel&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravChowdhuryRimel&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravChowdhuryRimel&theme=github-dark&hide_border=true&area=true&custom_title=Sourav's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+</p>
+
+## 🏆 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouravChowdhuryRimel&theme=github_dark" alt="Profile Details" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouravChowdhuryRimel&theme=github_dark" alt="Repos per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouravChowdhuryRimel&theme=github_dark" alt="Most Commit Language" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouravChowdhuryRimel&theme=github_dark" alt="Stats" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouravChowdhuryRimel&theme=github_dark&utcOffset=6" alt="Productive Time" width="45%" />
+</div>
+
+## 🏆 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SouravChowdhuryRimel&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true" alt="Top Contributions" />
+</p>
+
+## 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- These will be automatically generated by a GitHub Action -->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎯 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/SouravChowdhuryRimel">
+    <img src="https://github-profile-trophy.vercel.app/?username=SouravChowdhuryRimel&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SouravChowdhuryRimel/SouravChowdhuryRimel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>⚡ Code is like humor. When you have to explain it, it's bad.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%" alt="Footer" />
+</p>

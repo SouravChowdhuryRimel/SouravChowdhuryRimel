@@ -34,18 +34,28 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://codeforces.com/profile/sourav_chowdhury" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourav_chowdhury&theme=github_dark" alt="Codeforces Stats" />
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/sourav_chowdhury">
+        <img
+          src="https://codeforces-readme-stats.vercel.app/api/card?username=sourav_chowdhury&theme=github_dark&hide_border=true&v=2"
+          alt="Codeforces Stats"
+          width="100%"
+        />
       </a>
     </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/sourav_c/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/sourav_c?theme=dark&font=Abel&ext=contest" alt="LeetCode Stats" />
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/sourav_c/">
+        <img
+          src="https://leetcard.jacoblin.cool/sourav_c?theme=dark&font=Abel&ext=contest&hide_border=true&v=2"
+          alt="LeetCode Stats"
+          width="100%"
+        />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 ## 🛠️ Tech Stack
 
